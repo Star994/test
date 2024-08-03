@@ -1,1 +1,2 @@
 a,created by zhu 
+add new func1 zhu
